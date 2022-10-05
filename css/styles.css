@@ -1,0 +1,44 @@
+body {
+  background-color: #FFF5E4
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  border-radius: ;
+
+}
+
+p {
+  font-size: 22px;
+}
+
+body {
+  font-size: 18px;
+}
+h1 {
+  color: #66BFBF;
+}
+h2 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
+
+.profilepic{
+
+  border:5px solid #FFF5E4;
+  border-radius: 100%;
+  width: 290px;
+  height: 290px;
+
+}
+#profile:hover {
+  border:5px solid gold;
+  width: 290px;
+  height: 290px;
+}
